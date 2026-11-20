@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Run Club",
+  "description": "Community running club hub for discovering, posting, and joining upcoming group runs across road, track, and trail routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
